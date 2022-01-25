@@ -9,7 +9,7 @@ v1.0.2
 ### Known Issues
 **pri-fidoiot**: Upgrading from H2 1.4.200 to 2.X.X version resulted in a few incompatibilities. See this [GitHub issue](https://github.com/secure-device-onboard/pri-fidoiot/issues/401) for more details.
 
-The tag 1.0.2 and the branches 1.0-rel, 1.10-rel points to the same commit (#991abd4, Version rollover to 1.0.2 Release). In build/build.sh script, the remote branch points to 1.10-rel, which is same as the 1.0-rel branch and 1.0.2 tag.
+The tag v1.0.2 and the branches 1.0-rel, 1.10-rel points to the same commit ( #991abd4, Version rollover to 1.0.2 Release). In build/build.sh script, the remote branch points to 1.10-rel, which is same as the 1.0-rel branch and v1.0.2 tag.
 
 ### SHA256 checksum for release binaries
 
