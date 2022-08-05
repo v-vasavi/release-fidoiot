@@ -1,6 +1,8 @@
 v1.1.2
 
-**client-sdk-fidoiot**: Patch release with fix for issues with accessing https URLs in certain scenarios. 
+### Fixed Issues
+
+**client-sdk-fidoiot**: Fix for issues with accessing https URLs in certain scenarios. 
 
 ### Known Issues
 
